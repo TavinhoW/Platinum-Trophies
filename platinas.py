@@ -2,7 +2,7 @@ import os # pega a biblioteca para limpar a consola
 import platform # pega a biblioteca para ver em que sistema operativo estas (windows/linux)
 
 # Localização do ficheiro (alterar no pc diferente)
-file_path = 'C:/Users/gusta/Documents/PROGRAMAÇÃO/Programas Pessoais/jogos_platina.txt'
+file_path = '...'
 
 # Função para limpar a consola (diferente se caso estiveres no windows ou no linux)
 def clear_console():
